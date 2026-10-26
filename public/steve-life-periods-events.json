@@ -1,0 +1,370 @@
+{
+  "_demoProvenance": "Entirely invented history for fictional Steve.",
+  "_demoAnchorDate": "2026-09-19",
+  "periods": [
+    {
+      "n": "Photography walks and local gigs",
+      "a": "2019-03-01",
+      "b": "2023-12-31",
+      "l": "Hobby",
+      "d": "Steve took photographs on his phone and went to local gigs. After a quieter spell, he returned to photography with a borrowed camera in the current year."
+    },
+    {
+      "n": "Sunday dinners and a settled flat",
+      "a": "2024-01-01",
+      "b": "2026-05-31",
+      "l": "Life",
+      "d": "Ordinary dinners with friends became part of Steve's life. Moving to the new flat took longer to settle than he expected."
+    },
+    {
+      "n": "Making Space for Health and Friends",
+      "a": "2026-06-01",
+      "b": "2026-10-11",
+      "l": "Life",
+      "d": "Steve is testing a week with room for exercise, photographs and friends. The work-free-evenings trial has started; its planned finish is still ahead.",
+      "importance": 4
+    },
+    {
+      "n": "School sketchbook and small discoveries",
+      "a": "1998-09-01",
+      "b": "2002-07-20",
+      "l": "Journal",
+      "d": "Steve kept an notebook of drawings, questions and favourite days.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:1"
+    },
+    {
+      "n": "Notes after the lunch break",
+      "a": "2015-02-01",
+      "b": "2017-11-30",
+      "l": "Journal",
+      "d": "Steve wrote brief notes after walks, separating what happened from what he thought about it.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:2"
+    },
+    {
+      "n": "Monthly reflection circle",
+      "a": "2026-05-07",
+      "b": "2026-09-19",
+      "l": "Journal",
+      "d": "A small monthly group gave Steve a place to discuss changes and hear other perspectives.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:3"
+    },
+    {
+      "n": "The smaller-evening experiment",
+      "a": "2026-08-28",
+      "b": "2026-09-19",
+      "l": "Journal",
+      "d": "Steve wrote about the new job, tired evenings and trying a smaller plan. His notes are selected observations, not causal evidence.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:4"
+    },
+    {
+      "n": "College design workshop",
+      "a": "2007-09-01",
+      "b": "2009-06-30",
+      "l": "Work / edu",
+      "d": "Steve learned layout and practical design in an entirely college course.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:5"
+    },
+    {
+      "n": "Library job and evening classes",
+      "a": "2010-01-10",
+      "b": "2013-06-30",
+      "l": "Work / edu",
+      "d": "Steve worked at a local library and took an evening course in digital design.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:6"
+    },
+    {
+      "n": "First studio role",
+      "a": "2013-09-02",
+      "b": "2018-03-30",
+      "l": "Work / edu",
+      "d": "Steve joined a small studio and learned to ask colleagues for early feedback.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:7"
+    },
+    {
+      "n": "Designing services with a small team",
+      "a": "2020-02-03",
+      "b": "2026-08-21",
+      "l": "Work / edu",
+      "d": "Steve worked with an team on ordinary service design projects.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:8"
+    },
+    {
+      "n": "Settling into a new team",
+      "a": "2026-08-28",
+      "b": "2026-09-19",
+      "l": "Work / edu",
+      "d": "Steve chose a new role and tried agreeing earlier finishes during its first fortnight.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:9"
+    },
+    {
+      "n": "Saturday pancakes at home",
+      "a": "1996-01-01",
+      "b": "2003-12-31",
+      "l": "Home",
+      "d": "A wholly family routine of pancakes, library visits and rainy-day board games.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:10"
+    },
+    {
+      "n": "Sharing the first flat",
+      "a": "2010-08-01",
+      "b": "2013-07-31",
+      "l": "Home",
+      "d": "Steve shared a small flat, learned two reliable dinners and divided the bills with his housemates.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:11"
+    },
+    {
+      "n": "A flat with room for friends",
+      "a": "2025-11-01",
+      "b": "2026-09-19",
+      "l": "Home",
+      "d": "Steve made space for visitors and a small desk for photographs.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:12"
+    },
+    {
+      "n": "Monthly board-game evenings",
+      "a": "2026-01-18",
+      "b": "2026-09-19",
+      "l": "Home & people",
+      "d": "Steve, Maya and Leo met for games, taking turns to host. Steve hosted the August evening in his new flat.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:13"
+    },
+    {
+      "n": "Sunday walks with Maya",
+      "a": "2026-05-03",
+      "b": "2026-09-19",
+      "l": "Home & people",
+      "d": "Steve and Maya tried a regular walk, keeping the route short when either was tired.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:14"
+    },
+    {
+      "n": "Building model aircraft",
+      "a": "1999-03-01",
+      "b": "2004-07-31",
+      "l": "Hobby",
+      "d": "Steve built model aircraft, painted them badly at first and enjoyed making small things.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:15"
+    },
+    {
+      "n": "Playing bass with school friends",
+      "a": "2005-09-01",
+      "b": "2009-08-31",
+      "l": "Hobby",
+      "d": "An school band practised in a garage and played two local evenings.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:16"
+    },
+    {
+      "n": "A small book club",
+      "a": "2024-02-01",
+      "b": "2026-09-19",
+      "l": "Hobby",
+      "d": "Steve read short novels with a local group and sometimes went along without finishing.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:17"
+    },
+    {
+      "n": "Canal photography lessons",
+      "a": "2026-05-10",
+      "b": "2026-09-19",
+      "l": "Hobby",
+      "d": "Steve practised framing on familiar walks and shared three imperfect photographs.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:18"
+    },
+    {
+      "n": "Finding workable gym sessions",
+      "a": "2026-06-01",
+      "b": "2026-09-19",
+      "l": "Hobby",
+      "d": "Steve tried push, pull and legs sessions, then shortened one workout during the new job.",
+      "importance": 2,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:period:19"
+    }
+  ],
+  "events": [
+    {
+      "n": "First Month of Check-Ins",
+      "t": "2026-04-24",
+      "l": "Life",
+      "d": "Steve noticed that movement and sleep were easier to understand across weeks than on a single bad day."
+    },
+    {
+      "n": "First Gym Week",
+      "t": "2026-06-14",
+      "l": "Movement",
+      "d": "Steve tried one push, one pull, and one legs session."
+    },
+    {
+      "n": "Two Easy Dinners",
+      "t": "2026-07-19",
+      "l": "Home",
+      "d": "Steve found two meals he would happily repeat."
+    },
+    {
+      "n": "Monthly Money Review",
+      "t": "2026-08-02",
+      "l": "Life",
+      "d": "Steve listed his recurring bills and found one subscription he no longer used."
+    },
+    {
+      "n": "Games Night",
+      "t": "2026-08-23",
+      "l": "Friends",
+      "d": "Maya, Leo, and Steve met for an ordinary evening together."
+    },
+    {
+      "n": "Finished a Photography Lesson",
+      "t": "2026-09-06",
+      "l": "Hobby",
+      "d": "Steve practised framing during a walk and saved three photos he liked."
+    },
+    {
+      "n": "Started a New Job",
+      "t": "2026-08-28",
+      "l": "Work",
+      "d": "Steve started the role he wanted and met his new team. There was a lot to learn on the first day."
+    },
+    {
+      "n": "Protected Two Free Evenings",
+      "t": "2026-09-10",
+      "l": "Life",
+      "d": "Agreed two work-free evenings and a clear handover for a four-week trial. The agreement is ready to try in the following week."
+    },
+    {
+      "n": "Shared Three Imperfect Photographs",
+      "t": "2026-09-13",
+      "l": "Hobby",
+      "d": "Steve shared three photographs before trying to make them perfect. The same moment is recorded in his Journal and Artist evidence."
+    },
+    {
+      "n": "A Shorter Session Worked",
+      "t": "2026-09-19",
+      "l": "Movement",
+      "d": "Steve tried a twenty-minute workout after a busy day."
+    },
+    {
+      "n": "First sketchbook exhibition",
+      "t": "2002-05-11",
+      "l": "Journal",
+      "d": "Steve showed his invented notebook to the school art group.",
+      "importance": 3,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:event:1"
+    },
+    {
+      "n": "A first garage concert",
+      "t": "2008-06-14",
+      "l": "Hobby",
+      "d": "The fictional band played three songs for friends and families.",
+      "importance": 3,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:event:2"
+    },
+    {
+      "n": "Finished the evening design course",
+      "t": "2013-06-28",
+      "l": "Work / edu",
+      "d": "Steve completed an invented final project about finding a local library.",
+      "importance": 3,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:event:3"
+    },
+    {
+      "n": "First dinner in the painted room",
+      "t": "2026-04-26",
+      "l": "Home",
+      "d": "Steve invited Maya and Leo for an easy dinner after painting the spare room.",
+      "importance": 3,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:event:4"
+    },
+    {
+      "n": "Joined the reflection circle",
+      "t": "2026-05-07",
+      "l": "Journal",
+      "d": "Steve listened during an invented group conversation and wrote down one question to return to.",
+      "importance": 3,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:event:5"
+    },
+    {
+      "n": "Borrowed a camera for the canal walk",
+      "t": "2026-05-10",
+      "l": "Hobby",
+      "d": "Steve returned to photography, borrowing a camera and trying two views of the same bridge.",
+      "importance": 3,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:event:6"
+    },
+    {
+      "n": "Read an unfinished book with the group",
+      "t": "2026-06-18",
+      "l": "Hobby",
+      "d": "Steve went to book club after reading only half the novel and enjoyed the conversation.",
+      "importance": 3,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:event:7"
+    },
+    {
+      "n": "A rainy Sunday still counted",
+      "t": "2026-07-05",
+      "l": "Home & people",
+      "d": "Steve and Maya chose a short walk and a warm drink instead of cancelling.",
+      "importance": 3,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:event:8"
+    },
+    {
+      "n": "Asked about earlier finishes",
+      "t": "2026-09-09",
+      "l": "Work / edu",
+      "d": "Steve asked his manager about two work-free evenings and discussed what a clear handover would need.",
+      "importance": 3,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:event:9"
+    },
+    {
+      "n": "One question at the end of the week",
+      "t": "2026-09-18",
+      "l": "Journal",
+      "d": "Steve wrote: What felt spacious this week? This invented line is a question, not a score.",
+      "importance": 3,
+      "fictional": true,
+      "sourceRef": "fictional-steve:reset17:event:10"
+    }
+  ]
+}

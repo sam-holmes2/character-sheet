@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/modelcontextprotocol/mcpb/main/schemas/mcpb-manifest-v0.4.schema.json",
+  "manifest_version": "0.4",
+  "name": "character-sheet-companion",
+  "display_name": "Character Sheet companion",
+  "version": "1.1.0",
+  "description": "Open, read, save, and undo one approved Character Sheet through a private local state file.",
+  "author": {"name": "Character Sheet"},
+  "server": {
+    "type": "python",
+    "entry_point": "server/character-sheet-mcp.py",
+    "mcp_config": {
+      "command": "python3",
+      "args": ["${__dirname}/server/character-sheet-mcp.py", "mcp", "--sheet", "${__dirname}/app/character-sheet.html", "--state", "${user_config.state_path}"]
+    }
+  },
+  "user_config": {
+    "state_path": {
+      "type": "file",
+      "title": "Private Character Sheet state file",
+      "description": "Choose a new or existing private .json file. This is the only data file the companion can read or write.",
+      "required": true
+    }
+  },
+  "tools_generated": true,
+  "compatibility": {
+    "claude_desktop": ">=1.0.0",
+    "platforms": ["darwin", "win32", "linux"],
+    "runtimes": {"python": ">=3.9,<4.0"}
+  }
+}

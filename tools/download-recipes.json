@@ -1,0 +1,96 @@
+{
+  "format": "cs-public-download-recipes-v1",
+  "recipes": [
+    {
+      "appSha256": "2f72eb31587cab5377dc5af1414b07b3d26cf871a53399e144dc3b2e3053fd2c",
+      "base": "blank.html",
+      "baseSha256": "aaeeede411684993fa7312a17da5b6a15c5ba62e3c90f7be89924ce4a0a9ca52",
+      "bytes": 29077161,
+      "extraEntries": [
+        {
+          "name": "character-sheet.html",
+          "source": "@app"
+        },
+        {
+          "name": "public-assets.json",
+          "source": "public-assets.json"
+        }
+      ],
+      "operations": [
+        {
+          "after": "  const expectedPublicShellHash='64fd6d78011c4cbf0941430e0b8f1787aaacc93203bcc10144ce0acf46594c04';\n  const expectedPublicBlankZipHash='0000000000000000000000000000000000000000000000000000000000000000';\n",
+          "before": "  const expectedPublicShellHash='abd2eee51bc37f07606daf7229058cfd05759c7d067147424c733957b8b569e8';\n  const expectedPublicBlankZipHash='eb1adf06eda54eaf802a2f40fd995be9efe0b6c278f8e5b416badd07332db694';\n"
+        }
+      ],
+      "path": "character-sheet-blank.zip",
+      "sha256": "eb1adf06eda54eaf802a2f40fd995be9efe0b6c278f8e5b416badd07332db694",
+      "stockCount": 1260,
+      "stockPrefix": "",
+      "zipEntry": {
+        "compression": 8,
+        "dateTime": [
+          2026,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "mode": 2175008768,
+        "system": 3
+      }
+    },
+    {
+      "appSha256": "47d12f49874e7d8447004ca890814d1c6f7cf01de2d862de5270ae29887855e2",
+      "base": "character-sheet.html",
+      "baseSha256": "a4ba6752bdf23a6f7eeac41cac8137adcaa6ff1b84e02f056e75576e4fa377e1",
+      "bytes": 29099668,
+      "extraEntries": [
+        {
+          "name": "app/character-sheet.html",
+          "source": "@app"
+        },
+        {
+          "name": "app/public-assets.json",
+          "source": "public-assets.json"
+        },
+        {
+          "name": "manifest.json",
+          "source": "companion/manifest.json"
+        },
+        {
+          "name": "server/character-sheet-mcp.py",
+          "source": "companion/character-sheet-mcp.py"
+        }
+      ],
+      "operations": [
+        {
+          "after": "<meta name=\"cs-public-mode\" content=\"standalone\">\n",
+          "before": "<meta name=\"cs-public-mode\" content=\"demo\"><!--CS_PUBLIC_ACHIEVEMENT_ART_V2_START-->\n<script id=\"cs-public-achievement-art-v2\">\n(()=>{if(document.querySelector?.('meta[name=\"cs-public-mode\"]')?.getAttribute('content')!=='demo'||!['http:','https:'].includes(location.protocol))return;const rows=[{\"id\":\"steve-achievement-v2--starter-downloaded-character-sheet\",\"label\":\"Downloaded character-sheet\",\"alt\":\"A fresh character sheet saved beside a laptop in a blue folio.\",\"src\":\"assets/starter-downloaded-character-sheet-v2.webp\"},{\"id\":\"steve-achievement-v2--first-gym-week\",\"label\":\"First Gym Week\",\"alt\":\"Steve beside training equipment and a card with three completed checks.\",\"src\":\"assets/first-gym-week-v2.webp\"},{\"id\":\"steve-achievement-v2--desk-corner\",\"label\":\"A Clear Corner\",\"alt\":\"A clear reading desk and comfortable green chair beside a warm lamp.\",\"src\":\"assets/desk-corner-v2.webp\"},{\"id\":\"steve-achievement-v2--simple-meals\",\"label\":\"Easy Weekday Meals\",\"alt\":\"Two simple dinners: bean stew and rice with roasted vegetables.\",\"src\":\"assets/simple-meals-v2.webp\"},{\"id\":\"steve-achievement-v2--games-night\",\"label\":\"Games Night Host\",\"alt\":\"Steve and three friends share a relaxed board game at home.\",\"src\":\"assets/games-night-v2.webp\"},{\"id\":\"steve-achievement-v2--course-module\",\"label\":\"First Course Module\",\"alt\":\"Steve studies his first photography exercise beside a camera and still life.\",\"src\":\"assets/course-module-v2.webp\"},{\"id\":\"steve-achievement-v2--short-session-restart\",\"label\":\"Adjusted Instead of Restarting\",\"alt\":\"Steve completes a shorter seated dumbbell workout beside a small hourglass.\",\"src\":\"assets/short-session-restart-v2.webp\"},{\"id\":\"steve-achievement-v2--started-new-job\",\"label\":\"Started a New Job\",\"alt\":\"A colleague welcomes Steve into an unfamiliar workplace.\",\"src\":\"assets/started-new-job-v2.webp\"},{\"id\":\"steve-achievement-v2--protected-free-evenings\",\"label\":\"Asked for the Evenings Back\",\"alt\":\"Steve agrees a handover beside a planner marking two earlier finishes.\",\"src\":\"assets/protected-free-evenings-v2.webp\"},{\"id\":\"steve-achievement-v2--shared-three-photos\",\"label\":\"Shared Three Imperfect Photographs\",\"alt\":\"Three personal photographs appear as prints and on a sharing screen.\",\"src\":\"assets/shared-three-photos-v2.webp\"}];window.CSPublicAchievementArtV2=Object.freeze(rows.map(row=>Object.freeze(row)));})();\n</script>\n<!--CS_PUBLIC_ACHIEVEMENT_ART_V2_END-->\n"
+        },
+        {
+          "after": "  const expectedPublicShellHash='c53d9f88e11ceb196fa72911d2c13a0436a55e16028c42f4e5d7143be1730440';\n  const expectedPublicBlankZipHash='0000000000000000000000000000000000000000000000000000000000000000';\n",
+          "before": "  const expectedPublicShellHash='d488f6e99f4431745b266c703d805c0e4931ebfba9e60d8ead360e7a8d2afb79';\n  const expectedPublicBlankZipHash='eb1adf06eda54eaf802a2f40fd995be9efe0b6c278f8e5b416badd07332db694';\n"
+        }
+      ],
+      "path": "companion/character-sheet-companion.mcpb",
+      "sha256": "573596969dc1452c64e2626aa6680eb1c12720dbb28ed55c192f4a882a26e3b9",
+      "stockCount": 1260,
+      "stockPrefix": "app/",
+      "zipEntry": {
+        "compression": 8,
+        "dateTime": [
+          2026,
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "mode": 2175008768,
+        "system": 3
+      }
+    }
+  ],
+  "sourceManifestSha256": "a8af81c3c2110960f21bd7320876e58c81ed2c61a71fd780ae08dd671b2f8559"
+}
